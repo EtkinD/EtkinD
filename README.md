@@ -198,7 +198,11 @@ I'm a Front-End developer who wknows a little bit Back-End and server sides. I a
   </a>
   <a href="http://www.instagram.com/etkin.dogan" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: dark)"
+        srcset="
+          [undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)
+        " 
+      />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
